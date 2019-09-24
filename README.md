@@ -5,7 +5,9 @@ This allows you to get a better understanding of the Student Experience side of 
 __During the sign-up and application process you may encounter references to students or part-time work, you can ignore these discrepencies, this is a full time role for an experienced candidate.__
 
 ## Step 1
-Sign-up to Hatch [here](https://www.hatch.team/student/signup). You can upload dummy data for the Education questions and transcripts.
+Sign-up to Hatch [here](https://www.hatch.team/student/signup). 
+ - You can upload dummy data for the Education questions and transcripts.
+ - We don't use the Assessments for these hires, so just click random answers to save time (or do it for fun!)
 
 ## Step 2
 Once you have a compeleted a Hatch account, you can apply to the role [here](https://www.hatch.team/role/186).
