@@ -16,4 +16,4 @@ When answering the experience questions, you can put anything in the title and c
 
 **Once you have completed all steps you will receive an automated email from us confirming we have received your application**
 
-This is a screening interview, you'll be assessed on your answers to the video and experience questions.
+This is a screening interview, you'll be assessed on your answers to the video and experience questions. We already have your CV so use it as an opportunity to provide new information.
