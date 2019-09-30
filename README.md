@@ -15,3 +15,5 @@ This will require you to answer a few more questions and submit some video respo
 When answering the experience questions, you can put anything in the title and context text boxes. Answer the main question on the left in the last text area.
 
 **Once you have completed all steps you will receive an automated email from us confirming we have received your application**
+
+This is a screening interview, you'll be assessed on your answers to the video and experience questions.
