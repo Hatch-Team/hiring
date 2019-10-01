@@ -11,6 +11,7 @@ Sign-up to Hatch [here](https://www.hatch.team/student/signup).
    - About you
    - CV
    - LinkedIn Url
+   - GitHub Url
  - You can enter/upload dummy data for the other fields including the Education questions and transcripts.
  - We don't use the Assessments for these hires, so just click random answers to save time (or do it for fun!), but they will need to be complete before the system lets you do Step 2.
 
