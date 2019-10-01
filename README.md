@@ -18,7 +18,7 @@ Sign-up to Hatch [here](https://www.hatch.team/student/signup).
 ## Step 2
 Once you have a compeleted a Hatch account, you can apply to the role [here](https://www.hatch.team/role/186).
 This will require you to answer a few more questions and submit some video responses.
-When answering the experience questions, you can put anything in the title and context text boxes. Answer the main question on the left in the last text area.
+When answering the experience questions, you can put anything in the title and context text boxes. **Answer the main question on the left in the last text area.**
 
 **Once you have completed all steps you will receive an automated email from us confirming we have received your application**
 
