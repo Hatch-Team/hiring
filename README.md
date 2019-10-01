@@ -6,7 +6,12 @@ __During the sign-up and application process you may encounter references to stu
 
 ## Step 1
 Sign-up to Hatch [here](https://www.hatch.team/student/signup). 
- - You can upload dummy data for the Education questions and transcripts.
+ - Please fill out 
+   - Contact details
+   - About you
+   - CV
+   - LinkedIn Url
+ - You can enter/upload dummy data for the other fields including the Education questions and transcripts.
  - We don't use the Assessments for these hires, so just click random answers to save time (or do it for fun!), but they will need to be complete before the system lets you do Step 2.
 
 ## Step 2
